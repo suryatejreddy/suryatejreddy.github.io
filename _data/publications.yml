@@ -1,0 +1,63 @@
+- id: memeify
+  title: "Memeify: A Large-Scale Meme Generation System"
+  year: 2020
+  authors:
+    - Suryatej Reddy Vyalla
+    - Vishaal Udandarao
+  venue: CoDS COMAD
+  type:
+    - Conference
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3371158.3371403
+  link: https://github.com/suryatejreddy/memeify
+  video: https://www.youtube.com/watch?v=P_Tfs0X-czs
+  slides: https://docs.google.com/presentation/d/1-u7WvZBYdiz2D1j08YGXPrvDiVSgDvJqb20KuY6Fs98/edit?usp=sharing
+
+- id: cobra
+  title: "COBRA: Contrastive Bi-Modal Representation Algorithm"
+  authors:
+    - Vishaal Udandarao
+    - Abhishek Maiti
+    - Deepak Srivatsav
+    - Suryatej Reddy Vyalla
+    - Yifang Yin
+    - Rajiv Ratn Shah
+  year: 2020
+  venue: arXiv
+  pdf: https://arxiv.org/pdf/2005.03687.pdf
+  type:
+    - Conference
+  link: https://github.com/ovshake/cobra
+
+- id: covison
+  year: 2020
+  pdf: https://www.medrxiv.org/content/medrxiv/early/2020/06/08/2020.06.06.20124495.1.full.pdf
+  title: "Less Wrong COVID-19 Projections With Interactive Assumptions"
+  venue: medRxiv
+  authors:
+    - Aditya Nagori
+    - Raghav Awasthi
+    - Vineet Joshi
+    - Suryatej Reddy Vyalla
+    - Akhil Jarodia
+    - Chandan Gupta
+    - Amogh Gulati
+    - Harsh Bandhey 
+    - Ponnurangam Kumaraguru
+    - Tavpritesh Sethi
+  link: http://covision.tavlab.iiitd.edu.in/
+
+- id: covidnlp
+  year: 2020
+  venue: medRxiv
+  pdf: https://www.medrxiv.org/content/medrxiv/early/2020/04/29/2020.04.25.20079129.full.pdf
+  title: "CovidNLP: A Web Application for Distilling Systemic Implications of COVID-19 Pandemic with Natural Language Processing"
+  authors:
+    - Raghav Awasthi
+    - Ridam Pal
+    - Pradeep Singh
+    - Aditya Nagori
+    - Suryatej Reddy Vyalla
+    - Amogh Gulati
+    - Ponnurangam Kumaraguru
+    - Tavpritesh Sethi
+  link: http://covidnlp.tavlab.iiitd.edu.in/

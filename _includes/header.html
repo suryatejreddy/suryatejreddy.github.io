@@ -1,0 +1,18 @@
+{% assign current = page.url | downcase | split: '/' %}
+<header class="page-header">
+  <nav class="container">
+    <a class="site-title" href="{{ absolute_url }}/">{{ site.title }}</a>
+
+    <a href="{{ '/projects/' | relative_url }}" {% if current[1] == 'projects' %}class="active" {% endif %}>Projects</a>
+    <a href="{{ '/publications/' | relative_url }}" {% if current[1] == 'publications' %}class="active"
+      {% endif %}>Publications</a>
+    <!-- <a href="{{ '/blog/' | relative_url }}" {% if current[1] == 'blog' %}class="active"{% endif %}>Blog</a> -->
+    <a target="_blank" href="/Resume.pdf">Resume</a>
+
+    <span class="external">
+      <a target="_blank" href="https://www.linkedin.com/in/suryatejreddy/"><i class="fab fa-linkedin"></i> LinkedIn</a>
+      <a target="_blank" href="https://github.com/suryatejreddy"><i class="fab fa-github"></i> GitHub</a>
+      <a target="_blank" href="https://twitter.com/ReddySuryatej"><i class="fab fa-twitter"></i> Twitter</a>
+    </span>
+  </nav>
+</header>

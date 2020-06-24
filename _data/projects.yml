@@ -1,0 +1,26 @@
+- title: WhatsFarzi
+  url: https://play.google.com/store/apps/details?id=precog.whatsfarzi&hl=en
+  article: http://precog.iiitd.edu.in/blog/2019/02/11/whatsfarzi-analyzing-fake-manipulated-content-misinformation-on-whatsapp/
+  image: whatsfarzi.png
+  description: "WhatsFarzi is an android application built to verify the authenticity of news articles shared on social media. It also provides a feature to identify morphed images."
+  highlight: 1
+
+- title: COVision
+  image: covision.png
+  url: http://covision.tavlab.iiitd.edu.in/
+  paper: https://www.medrxiv.org/content/10.1101/2020.06.06.20124495v2
+  description: "COVision is an interactive dashboard which uses various epidemiological models to predict spread and resources needed during the Covid19 pandemic in India. Work was done in collobaration with a team of medical researchers."
+  highlight: 2
+
+- title: covidNLP
+  url: http://covidnlp.tavlab.iiitd.edu.in/
+  paper: https://www.medrxiv.org/content/10.1101/2020.04.25.20079129v1
+  image: covidnlp.png
+  description: "covidNLP is dashboard built to speed up knowledge discovery during the Covid19 pandemic and assist clinicians, researchers, and policymakers in furthering clinical management and research."
+  highlight: 3
+
+- title: Open Transit Data
+  url: https://otd.delhi.gov.in/
+  image: otdd.png
+  description: "An open data inititave built in collobaration with Government of Delhi, India that published transit data-sets and a real-time API for public buses in the state of Delhi making the first city in India to make transit data public."
+  highlight: 4
