@@ -4,16 +4,18 @@ title: "Home"
 class: home
 ---
 
-# Hi, I'm Suryatej Reddy
+# Hi, I'm Suryatej 
 
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm a research assistant at [IDSS@MIT](https://idss.mit.edu/), advised by [Dr. Kiran Garimella](https://idss.mit.edu/staff/kiran-garimella/), researching misinformation/hate speech on WhatsApp while building large scale tools for visualization and analysis. In August 2020, I will start as a Member of Technical Staff at [Adobe, India](https://www.adobe.com/).
+I am a graduate student in Computer Science at [Georgia Institute of Technology](https://www.gatech.edu/) working in the domain of Systems + Machine Learning, advised by [Dr. Joy Arulraj](https://www.cc.gatech.edu/~jarulraj/). I have prior experience building ML based software systems from ground up. Some of the tools I developed are being used by interdisciplinary researchers at MIT, IIITD and TCS Research.  
+
+I was a research assistant at [IDSS@MIT](https://idss.mit.edu/), advised by [Dr. Kiran Garimella](https://idss.mit.edu/staff/kiran-garimella/), where I studied misinformation/hate speech on WhatsApp and built large scale tools for visualization and analysis. 
 
 I received my B.Tech in Computer Science from [IIIT Delhi](https://iiitd.ac.in/), where I worked with [Prof. Ponnurangam Kumaraguru](https://www.iiitd.ac.in/pk) as part of [PreCog](http://precog.iiitd.edu.in/). I also had the oppurtunity to work with [Prof. Tavpritesh Sethi](https://www.iiitd.ac.in/tavpritesh), [Prof. Rajiv Ratn Shah](https://www.iiitd.ac.in/rajivratn) and [Dr. Arnab Chatterjee](https://sites.google.com/site/arnabchat/research/tcs) on various projects.
 
-I am passionate about building live systems and software in general. I enjoy working in reserch environments where I can build tools and technologies that take research ideas into live projects (some of which are listed below).
+I have interned/worked at various places in both industry and academia (3 publications). I also co-ran a marketing-tech services company for a while with leading marketing agencies in India as clients where I had the opportunity to take up marketing and sales related responsibilities.
 </div>
 
 <div class="me" markdown="1">
