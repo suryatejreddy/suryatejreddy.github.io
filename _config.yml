@@ -1,8 +1,8 @@
 # Site settings
 title: Suryatej Reddy
-email: suryatej16102[at]iiitd[dot]ac[dot]in
+email: svyalla3[at]gatech[dot]edu
 description: > # this means to ignore newlines until "baseurl:"
-  Research Assistant at MIT. Incoming MTS at Adobe. I am passionate about building tools and technologies around research ideas. B.Tech in Computer Science from IIITD.
+  Graduate student in Computer Science at Georgia Institute of Technology. Interested in Systems + ML. Past work @ Adobe, MIT, IIITD, TCS Research.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://suryatereddy.github.io/" # the base hostname & protocol for your site
 production_url: "https://suryatereddy.github.io/"
