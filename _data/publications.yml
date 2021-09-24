@@ -22,11 +22,26 @@
     - Yifang Yin
     - Rajiv Ratn Shah
   year: 2020
-  venue: arXiv
+  venue: TUSION worskshop, IJCAI 2020
   pdf: https://arxiv.org/pdf/2005.03687.pdf
   type:
     - Conference
   link: https://github.com/ovshake/cobra
+
+- id: vpl
+  title: "#IVoted to #IGotPwned: Studying Voter Privacy Leaks in Indian Lok Sabha Elections on
+Twitter"
+  authors:
+    - Saurabh Gupta
+    - Agarwal Anant
+    - Suryatej Reddy Vyalla
+    - Arun Balaji Buduru
+    - Ponnurangam Kumaraguru
+  year: 2020
+  venue: SocInfo
+  pdf: https://reallysaurabh.github.io/assets/pdf/socinfo_vpl.pdf
+  type:
+    - Conference
 
 - id: covison
   year: 2020
